@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProyectoA Beneficio</string>
+    <string name="texto_informativo">Introduzca un importe base y un % de beneficio, la app calculará el importe de beneficio:</string>
+    <string name="importe_base">Importe base</string>
+    <string name="importe_beneficio">Beneficio: %s</string>
+    <string name="porcentaje_beneficio">% beneficio</string>
+    <string name="redondear_beneficio_alza">Redondear beneficio al alza</string>
+    <string name="redondear_beneficio">Redondear beneficio normal</string>
+    <string name="sin_redondeo">Sin redondeo</string>
+</resources>
